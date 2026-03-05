@@ -50,6 +50,7 @@ Honors and Awards
 * Micron First-Class Scholarship, Xidian University (Top 5 university-wide), 2016
 * Class A Scholarship, Xidian University, 2015 - 2016
 * Outstanding Graduate, Shanxi University, 2015
+* Second Prize, China Undergraduate Mathematical Contest in Modeling, 2013
 
 Professional Services
 ======
