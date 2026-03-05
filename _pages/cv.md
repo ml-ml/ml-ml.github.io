@@ -60,4 +60,4 @@ Professional Services
 
 Activities & Interests
 =====================
-* Outdoor sports: boating, kayaking, paddleboarding, rock climbing, and tennis
+* Outdoor sports: boating, kayaking, paddleboarding, and tennis
