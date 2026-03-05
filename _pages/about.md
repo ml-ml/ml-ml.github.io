@@ -7,16 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University, China, supervised by Prof. Xiaofeng Gao. I am also a visiting scholar at Michigan State University, working with Prof. Jiliang Tang.
+I am currently a Post-doc Researcher in the Department of Computer Science at Michigan State University, working with Prof. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Prof. [Yue Xing](https://sites.google.com/view/yue-xing/home). I received my Ph.D. in Electronics and Information from Shanghai Jiao Tong University in 2025, supervised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/).
 
-My research interests lie at the intersection of graph learning and recommender systems. Recently, I have also been exploring the integration of large language models (LLMs) into these areas to enhance both representation learning and recommendation performance.
+My research interests include:
+- Large Language Models for Educational AI and Multi-agent Collaboration
+- Graph Neural Networks and Structure Optimization for Representation Learning
+- Recommendation Systems: Temporal Modeling and Generative Approaches
 
 News
 ======
+- 2026.01 Our paper "Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs" is accepted by WWW 2026!
+- 2026.01 Our paper "PEAR: Planner-Executor Agent Robustness Benchmark" is accepted by EACL 2026!
+- 2026.01 Our paper "Decoupling User Features for User Cold-Start App Recommendation" is accepted by WSDM 2026!
 - 2025.03 Our paper [A Lightweight Encoder-Decoder Framework for Carpooling Route Planning](https://ieeexplore.ieee.org/abstract/document/10938355) has been accepted to TMC.
-- 2024.11 Our paper [Building Robust and Trustworthy HGNN Models: A Learnable Threshold Approach for Node Classification](https://dl.acm.org/doi/abs/10.1145/3707645) has been accepted to TKDD. 
+- 2024.11 Our paper [Building Robust and Trustworthy HGNN Models: A Learnable Threshold Approach for Node Classification](https://dl.acm.org/doi/abs/10.1145/3707645) has been accepted to TKDD.
 - 2024.09 Our paper [Mixture of Link Predictors on Graphs](https://arxiv.org/pdf/2402.08583) is accepted by NeurIPS 2024!
-- 2024.03 Our paper [Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning in Road Network](https://dl.acm.org/doi/abs/10.1145/3589335.3648328) is accepted by The Web Conference 2024!
+- 2024.03 Our paper [Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning](https://dl.acm.org/doi/abs/10.1145/3589335.3648328) is accepted by The Web Conference 2024!
 - 2024.01 Our paper [Structural Fairness-aware Active Learning for Graph Neural Networks](https://openreview.net/pdf?id=bvjcMvMn7B) is accepted by ICLR 2024!
 
 <!--

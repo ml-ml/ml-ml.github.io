@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Team Member, Introduction to Computer Science"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2022-intro-cs
+venue: "Shanghai Jiao Tong University"
+date: 2022-09-01
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course awarded **First Place** in the National Youth Teaching Competition (Engineering Track).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Responsible for designing teaching materials on Association Rule Mining and Multilayer Perceptron
+* Contributed to the preparation of lecture slides, assignments, and lesson plans

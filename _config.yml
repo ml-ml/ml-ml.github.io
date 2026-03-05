@@ -11,10 +11,10 @@ remote_theme: academicpages/academicpages.github.io
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Li Ma / Li Ma - Homepage"
+title                    : "Li Ma - Homepage"
 title_separator          : "-"
 name                     : &name "Li Ma"
-description              : &description "Ph.D. Candidate at Shanghai Jiao Tong University"
+description              : &description "Post-doc Researcher at Michigan State University"
 url                      : https://ml-ml.github.io # the base hostname & protocol for your site
 baseurl                  : "" # no subpath needed for USERNAME.github.io repo
 repository               : "ml-ml/ml-ml.github.io"
@@ -27,11 +27,11 @@ author:
   avatar           : "profile.png"
   name             : "Li Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at SJTU"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "Post-doc Researcher at MSU"
+  location         : "East Lansing, MI, USA"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "mali-cs@sjtu.edu.cn" 
+  email            : "mali13@msu.edu" 
 
   # Academic websites
   academia         : # URL
@@ -81,12 +81,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journals'    
   conferences:
     title: 'Conferences'
+  manuscripts:
+    title: 'Journals'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   : images/me.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
