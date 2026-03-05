@@ -56,7 +56,7 @@ Professional Services
 * **Program Committee Member / Reviewer**
   * NeurIPS 2025, WWW 2024, KDD 2024, CIKM 2024-2025, ICDM 2024-2025
 * **Journal Reviewer**
-  * TKDE 2024-2025, TKDD 2024
+  * TKDE, TKDD
 
 Activities & Interests
 =====================
