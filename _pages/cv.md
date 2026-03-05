@@ -13,19 +13,15 @@ Education
 ======
 * **Michigan State University**, USA, 10/2025 - Present
   * Post-doc Researcher in Computer Science
-  * Research Topics: Graph ML, LLM Agents
   * Advisor: Dr. Jiliang Tang & Dr. Yue Xing
 * **Michigan State University**, USA, 08/2023 - 09/2025
   * Visiting Research Scholar in Computer Science
-  * Research Topics: Graph ML, LLM Agents
   * Advisor: Dr. Jiliang Tang & Dr. Yue Xing
 * **Shanghai Jiao Tong University**, China, 09/2019 - 09/2025
   * Ph.D. in Electronics and Information
-  * Research Topics: GNNs, Recommendation Systems
   * Advisor: Dr. Xiaofeng Gao
 * **Xidian University**, China, 09/2015 - 06/2018
   * Master of Computer Science and Technology
-  * Research Topics: Image Processing
   * Advisor: Dr. Fang Liu
 * **Shanxi University**, China, 09/2011 - 07/2015
   * Bachelor of Software Engineering
@@ -46,18 +42,6 @@ Work Experience
   * Backend Development Engineer (full-time) in Big Data Innovation Center
   * Developed and maintained backend systems for an internal web platform
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Honors and Awards
 ======
 * NeurIPS Scholar Award, 2024
@@ -73,9 +57,3 @@ Professional Services
   * NeurIPS 2025, WWW 2024, KDD 2024, CIKM 2024-2025, ICDM 2024-2025
 * **Journal Reviewer**
   * TKDE 2024-2025, TKDD 2024
-
-Skills
-======
-* Programming Languages: Python, C, C++, Java, MATLAB
-* Software and Systems: PyTorch, Numpy, Pandas, Scikit-Learn, Git, Linux
-* AI Skills: Large Language Models, Data Science
