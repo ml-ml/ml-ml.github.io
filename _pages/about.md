@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Post-doc Researcher in the Department of Computer Science at Michigan State University, working with Prof. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Prof. [Yue Xing](https://sites.google.com/site/xingyuecuhk/). I received my Ph.D. in Electronics and Information from Shanghai Jiao Tong University in 2025, supervised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/).
+I am currently a Post-doc Researcher in the Department of Computer Science at Michigan State University, working with Prof. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Prof. [Yue Xing](https://sites.google.com/site/xingyuecuhk/). I received my Ph.D. degree from Shanghai Jiao Tong University in 2025, supervised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/).
 
 My research interests include:
 - Large Language Models for Educational AI and Multi-agent Collaboration
