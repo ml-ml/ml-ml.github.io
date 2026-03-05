@@ -57,3 +57,7 @@ Professional Services
   * NeurIPS 2025, WWW 2024, KDD 2024, CIKM 2024-2025, ICDM 2024-2025
 * **Journal Reviewer**
   * TKDE 2024-2025, TKDD 2024
+
+Activities & Interests
+=====================
+* Outdoor sports: boating, kayaking, paddleboarding, rock climbing, and tennis
