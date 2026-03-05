@@ -5,5 +5,6 @@ category: preprints
 permalink: /publication/2025-preprint-post-training
 date: 2025-06-01
 venue: 'Manuscript'
+authors: '<b>Li Ma</b>, Yuantong Li, Haochen Zhou, Hanbing Wang, Jingzhe Liu, Zhan Li, Peng Wu, Yue Xing'
 citation: '<b>Li Ma</b>, Yuantong Li, Haochen Zhou, Hanbing Wang, Jingzhe Liu, Zhan Li, Peng Wu, Yue Xing. &quot;Structure-Aligned Post-Training for Generative Recommendation.&quot; [Manuscript].'
 ---
