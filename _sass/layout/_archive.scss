@@ -243,3 +243,35 @@
     }
   }
 }
+
+/* Publications list: bullet marker per entry, extra separation between entries */
+.publication-list {
+  .list__item {
+    position: relative;
+    padding-left: 1.4em;
+    margin-bottom: 2em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0.15em;
+      top: 0.6em;
+      width: 0.4em;
+      height: 0.4em;
+      border-radius: 50%;
+      background-color: var(--global-text-color-light);
+    }
+  }
+
+  .archive__item p {
+    margin: 0.15em 0 0;
+  }
+}
+
+.page__content .publication-list .archive__item-title {
+  margin-top: 0;
+}

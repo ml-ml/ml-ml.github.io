@@ -20,16 +20,22 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
+        {% if title_shown_any %}</div>{% endif %}
         <h2>{{ category[1].title }}</h2><hr />
+        <div class="publication-list">
         {% assign title_shown = true %}
+        {% assign title_shown_any = true %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
+  {% if title_shown_any %}</div>{% endif %}
 {% else %}
+  <div class="publication-list">
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+  </div>
 {% endif %}
 
 
