@@ -9,4 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/LIMA_CV.pdf" class="btn btn--primary"><i class="fas fa-file-pdf"></i> View / Download my CV (PDF)</a>
+<p class="cv-download">
+  <a href="{{ base_path }}/files/LIMA_CV.pdf"><i class="fas fa-file-pdf"></i> View / Download my CV (PDF)</a>
+</p>
+
+<p class="cv-updated">Last updated: 07/2026</p>
