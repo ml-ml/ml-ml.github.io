@@ -14,7 +14,7 @@ site_theme               : "default"
 title                    : "Li Ma - Homepage"
 title_separator          : "-"
 name                     : &name "Li Ma"
-description              : &description "Post-doc Researcher at Michigan State University"
+description              : &description "Visiting Researcher at Case Western Reserve University"
 url                      : https://ml-ml.github.io # the base hostname & protocol for your site
 baseurl                  : "" # no subpath needed for USERNAME.github.io repo
 repository               : "ml-ml/ml-ml.github.io"
@@ -27,11 +27,11 @@ author:
   avatar           : "profile.png"
   name             : "Li Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doc Researcher at MSU"
-  location         : "East Lansing, MI, USA"
-  employer         : "Michigan State University"
+  bio              : "Visiting Researcher at CASE"
+  location         : "Cleveland, OH, USA"
+  employer         : "Case Western Reserve University"
   uri              : # URL
-  email            : "mali13@msu.edu" 
+  email            : "li.ma.sjtu@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "li-ma-46b21a2a4" # username only; the template prepends https://www.linkedin.com/in/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
