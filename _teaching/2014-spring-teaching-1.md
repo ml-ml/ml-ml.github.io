@@ -10,6 +10,6 @@ location: "Shanghai, China"
 
 An English-taught course offered by the UM-SJTU Joint Institute.
 
-* Managed a TA team and supported a class of 140+ students
+<!-- * Managed a TA team and supported a class of 140+ students -->
 * Responsible for lecture slides, assignments, exams, and final project preparation
 * Course topics included data structures (trees, hash tables, heaps, graphs) and algorithms (sorting, searching, graph algorithms, dynamic programming)
