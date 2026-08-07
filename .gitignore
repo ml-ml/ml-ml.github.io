@@ -20,3 +20,5 @@ vendor/
 .vscode/
 
 *.pdf
+# Keep site asset PDFs (e.g. CV) tracked
+!files/*.pdf

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Post-doc Researcher in the Department of Computer Science at Michigan State University, working with Prof. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Prof. [Yue Xing](https://sites.google.com/site/xingyuecuhk/). I received my Ph.D. degree from Shanghai Jiao Tong University in 2025, supervised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/).
+I am currently a Visiting Researcher in the Department of Computer Science at Case Western Reserve University, working with Prof. [Jing Ma](https://jma712.github.io/). Before that, I worked with Prof. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Prof. [Yue Xing](https://sites.google.com/site/xingyuecuhk/) at Michigan State University. I received my Ph.D. degree from Shanghai Jiao Tong University in 2025, supervised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/).
 
 My research interests include:
 - Large Language Models for Educational AI and Multi-agent Collaboration
@@ -16,7 +16,10 @@ My research interests include:
 
 News
 ======
-- 2026.01 Our paper "Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs" is accepted by WWW 2026!
+- 2026.06 Our paper "Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation" is selected for **oral presentation** at KDD 2026 Datasets and Benchmarks Track (top 4.5%)!
+- 2026.05 Our paper "RAG vs. GraphRAG: A Systematic Evaluation and Key Insights" is accepted by KDD 2026 Datasets and Benchmarks Track!
+- 2026.05 Our paper "Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation" is accepted by KDD 2026 Datasets and Benchmarks Track!
+- 2026.01 Our paper "Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs" is accepted by WWW 2026 as an **oral presentation**!
 - 2026.01 Our paper "PEAR: Planner-Executor Agent Robustness Benchmark" is accepted by EACL 2026!
 - 2026.01 Our paper "Decoupling User Features for User Cold-Start App Recommendation" is accepted by WSDM 2026!
 - 2025.03 Our paper [A Lightweight Encoder-Decoder Framework for Carpooling Route Planning](https://ieeexplore.ieee.org/abstract/document/10938355) has been accepted to TMC.
