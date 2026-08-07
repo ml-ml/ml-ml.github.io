@@ -259,8 +259,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
+      pagination: false
   # _publications
   - scope:
       path: ""
